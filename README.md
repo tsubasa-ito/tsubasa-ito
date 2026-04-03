@@ -20,11 +20,19 @@
 | 過去の傾向からAIと一緒に<br/>大切な人への贈り物を考えるモバイルアプリ | 「今日何食べる？」を解決するモバイルアプリ |
 | <img src="https://img.shields.io/badge/-React_Native-61DAFB.svg?logo=react&style=flat"> <img src="https://img.shields.io/badge/-Expo-000020.svg?logo=expo&style=flat"> <img src="https://img.shields.io/badge/-Firebase-FFCA28.svg?logo=firebase&style=flat"> | <img src="https://img.shields.io/badge/-Flutter-02569B.svg?logo=flutter&style=flat"> <img src="https://img.shields.io/badge/-Dart-0175C2.svg?logo=dart&style=flat"> |
 
-| <a href="https://nani-poke.vercel.app/">PokeQuiz</a> | <a href="https://kosukan.com/">コスカン</a> |
+| <a href="https://nani-poke.vercel.app/">PokeQuiz</a> | |
 | :--: | :--: |
-| <img src="./images/PokeQuiz.png" width="500px" alt="PokeQuiz" /> | <img src="./images/Kosukan.png" width="500px" alt="コスカン" /> |
-| ポケモンの『分類』から<br/>ポケモンを当てるクイズアプリ | AIを活用した工数予測ツール<br/>見積もり精度の向上をサポート |
-| <img src="https://img.shields.io/badge/-Next.js-000000.svg?logo=nextdotjs&style=flat"> <img src="https://img.shields.io/badge/-Vercel-000000.svg?logo=vercel&style=flat"> <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4.svg?logo=tailwindcss&style=flat"> | <img src="https://img.shields.io/badge/-Next.js-000000.svg?logo=nextdotjs&style=flat"> <img src="https://img.shields.io/badge/-Vercel-000000.svg?logo=vercel&style=flat"> <img src="https://img.shields.io/badge/-Supabase-3FCF8E.svg?logo=supabase&style=flat"> |
+| <img src="./images/PokeQuiz.png" width="500px" alt="PokeQuiz" /> | |
+| ポケモンの『分類』から<br/>ポケモンを当てるクイズアプリ | |
+| <img src="https://img.shields.io/badge/-Next.js-000000.svg?logo=nextdotjs&style=flat"> <img src="https://img.shields.io/badge/-Vercel-000000.svg?logo=vercel&style=flat"> <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4.svg?logo=tailwindcss&style=flat"> | |
+
+### 過去に作ったもの
+
+| コスカン |
+| :--: |
+| <img src="./images/Kosukan.png" width="500px" alt="コスカン" /> |
+| AIを活用した工数予測ツール<br/>見積もり精度の向上をサポート<br/>※ 現在は運用を終了しています |
+| <img src="https://img.shields.io/badge/-Next.js-000000.svg?logo=nextdotjs&style=flat"> <img src="https://img.shields.io/badge/-Vercel-000000.svg?logo=vercel&style=flat"> <img src="https://img.shields.io/badge/-Supabase-3FCF8E.svg?logo=supabase&style=flat"> |
 
 ## 技術スタック
 
