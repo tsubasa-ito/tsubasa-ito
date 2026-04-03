@@ -20,11 +20,17 @@
 | 過去の傾向からAIと一緒に<br/>大切な人への贈り物を考えるモバイルアプリ | 「今日何食べる？」を解決するモバイルアプリ |
 | <img src="https://img.shields.io/badge/-React_Native-61DAFB.svg?logo=react&style=flat"> <img src="https://img.shields.io/badge/-Expo-000020.svg?logo=expo&style=flat"> <img src="https://img.shields.io/badge/-Firebase-FFCA28.svg?logo=firebase&style=flat"> | <img src="https://img.shields.io/badge/-Flutter-02569B.svg?logo=flutter&style=flat"> <img src="https://img.shields.io/badge/-Dart-0175C2.svg?logo=dart&style=flat"> |
 
-| <a href="https://nani-poke.vercel.app/">PokeQuiz</a> | |
+| <a href="https://nani-poke.vercel.app/">PokeQuiz</a> | <a href="https://soloassist.dev/">ソロアシスト</a> |
 | :--: | :--: |
-| <img src="./images/PokeQuiz.png" width="500px" alt="PokeQuiz" /> | |
-| ポケモンの『分類』から<br/>ポケモンを当てるクイズアプリ | |
-| <img src="https://img.shields.io/badge/-Next.js-000000.svg?logo=nextdotjs&style=flat"> <img src="https://img.shields.io/badge/-Vercel-000000.svg?logo=vercel&style=flat"> <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4.svg?logo=tailwindcss&style=flat"> | |
+| <img src="./images/PokeQuiz.png" width="500px" alt="PokeQuiz" /> | <img src="./images/SoloAssist.png" width="500px" alt="ソロアシスト" /> |
+| ポケモンの『分類』から<br/>ポケモンを当てるクイズアプリ | READMEを入力するだけで<br/>ストア申請用素材をAIで自動生成 |
+| <img src="https://img.shields.io/badge/-Next.js-000000.svg?logo=nextdotjs&style=flat"> <img src="https://img.shields.io/badge/-Vercel-000000.svg?logo=vercel&style=flat"> <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4.svg?logo=tailwindcss&style=flat"> | <img src="https://img.shields.io/badge/-Next.js-000000.svg?logo=nextdotjs&style=flat"> <img src="https://img.shields.io/badge/-TypeScript-3178C6.svg?logo=typescript&style=flat"> <img src="https://img.shields.io/badge/-Supabase-3FCF8E.svg?logo=supabase&style=flat"> |
+
+| <a href="https://apps.apple.com/jp/app/%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%9C%E3%83%BC%E3%83%89-%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%82%B7%E3%83%BC%E3%83%AB%E5%B8%B3/id6761348084">シールボード</a> | <a href="https://apps.apple.com/jp/app/mure-%E4%BB%B2%E9%96%93%E3%81%A8%E7%9B%AE%E6%A8%99%E3%82%92%E9%81%94%E6%88%90%E3%81%97%E3%82%88%E3%81%86/id6759218437">MURE</a> |
+| :--: | :--: |
+| <img src="./images/SealBoard.png" width="500px" alt="シールボード" /> | <img src="./images/Mure.png" width="500px" alt="MURE" /> |
+| リアルシールをデジタルコレクション<br/>あなただけのシール帳を作ろう | 仲間と励まし合いながら<br/>目標を習慣化するモバイルアプリ |
+| <img src="https://img.shields.io/badge/-Swift-F05138.svg?logo=swift&style=flat"> <img src="https://img.shields.io/badge/-SwiftUI-0071E3.svg?logo=swift&style=flat"> | <img src="https://img.shields.io/badge/-React_Native-61DAFB.svg?logo=react&style=flat"> <img src="https://img.shields.io/badge/-Expo-000020.svg?logo=expo&style=flat"> <img src="https://img.shields.io/badge/-Supabase-3FCF8E.svg?logo=supabase&style=flat"> |
 
 ### 過去に作ったもの
 
@@ -36,7 +42,7 @@
 
 ## 技術スタック
 
-**言語**: TypeScript / JavaScript / PHP / Dart
+**言語**: TypeScript / JavaScript / Swift / PHP / Dart
 
 **フロントエンド**: React / Next.js / Vue.js / React Native / Flutter
 
